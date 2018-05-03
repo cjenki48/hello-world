@@ -1,0 +1,1 @@
+$randomString = substr(md5(microtime()), 0, 5);
