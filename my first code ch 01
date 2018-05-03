@@ -1,4 +1,6 @@
 <?php
 $number = "5";
 $sum = 15+number
-$ sum = "twenty"
+$sum = "twenty"
+
+?>
